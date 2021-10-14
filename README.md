@@ -2,7 +2,7 @@
 
 #### The goal of this project research is to use machine learning models to detect and classify malware. 
 
-### There are three parts to this project. 
+### There are three parts in this project. 
 
 #### 1. The first step is to use the Ember opensource dataset, EMBER-2017 v2, to train a deep neural network to identify PE files as malware or benign.
 #### 2. The second step is to upload the model to the cloud and create an endpoint (API) for it.
